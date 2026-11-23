@@ -1,6 +1,6 @@
 # ROCCHI Universal OpenRouter AI Assistant (v2 PRO Edition)
 
-🚀 Your personal voice assistant using OpenRouter AI, Wakeword Jarvis, Email Control, Translator, and much more!
+🚀 Your personal voice assistant using OpenRouter AI, Wakeword We Mzee, Email Control, Translator, and much more!
 
 ---
 
